@@ -1,0 +1,12 @@
+C:\C# 2014\Git\GitTest\GitTest\bin\GitTest.dll.config
+C:\C# 2014\Git\GitTest\GitTest\bin\GitTest.dll
+C:\C# 2014\Git\GitTest\GitTest\bin\GitTest.pdb
+C:\C# 2014\Git\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\C# 2014\Git\GitTest\GitTest\obj\Debug\GitTest.dll
+C:\C# 2014\Git\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\Git\GitTest\GitTest\bin\GitTest.dll.config
+C:\Git\GitTest\GitTest\bin\GitTest.dll
+C:\Git\GitTest\GitTest\bin\GitTest.pdb
+C:\Git\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Git\GitTest\GitTest\obj\Debug\GitTest.dll
+C:\Git\GitTest\GitTest\obj\Debug\GitTest.pdb
